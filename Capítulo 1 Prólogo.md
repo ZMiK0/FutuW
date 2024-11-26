@@ -1,7 +1,9 @@
 
+Cuando sale del ascensor, Astaroth ve como los paneles azules se despliegan poco a poco a medida que avanza por la sala, iluminando tenuemente la oscura habitación.
+
 -- Llegas tarde.
 
--- Me disculpo mi señor, ha ocurrido una incidencia en la preparación del torneo.
+-- Me disculpo mi señor, ha ocurrido una incidencia en la preparación del torneo. -- Dijo Astaroth mientras seguía avanzando.
 
 -- Incidencia?
 
@@ -11,15 +13,15 @@
 
 -- ¿Lo dice en serio?
 
--- Probaras tu fuerza y defenderás el nombre de ZLogic. Si ganas, seguiré financiando tus caprichos. Si pierdes... -- la voz misteriosa realizó una pausa --.
+-- Probaras tu fuerza y defenderás el nombre de ZLogic. Si ganas, seguiré financiando tus caprichos. Si pierdes... -- la voz misteriosa realizó una pausa y las luces de la habitación se tornaron rojas --.
 
 -- No perderé.
 
--- Es lo **mínimo** que espero de ti, por cierto. ¿Has conocido ya a tu nueva compañera?.
+-- Es lo **mínimo** que espero de ti. Por cierto. ¿Has conocido ya a tu nueva compañera?.
 
 -- ¿Compañera mi señor? 
 
--- Así es, la rescatamos cuando aún era pequeña y nos es leal como un perro. Es fuerte y esta bien entrenada, te será útil, aprovéchala -- Dijo con un tono burlesco.
+-- Así es, la rescatamos cuando aún era pequeña y nos es leal como un perro. Es fuerte y esta bien entrenada, te será útil... aprovéchala -- Dijo con un tono burlesco.
 
 -- Como ordene mi señor.
 

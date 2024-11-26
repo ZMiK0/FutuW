@@ -21,5 +21,24 @@ Debon: Arquetipo del extraño/extranjero que va un poco por su lado pero es leal
 
 Razas: 
 - Humana (Tierra)
-- Quílidos, humanoidess grandes, azules y potenciados con una gran capacidad regenerativa. Los que son libres viven bien y adinerados, en cambio la mayoría de ellos son esclavos mineros, guardaespaldas o cualquier trabajo donde se puedan aprovechar de su energía regenerativa.
-- Dioses elementales, antiguamente provenian del mismo planeta, pero con la expansión de la humanidad y su capacidad de renacer han acabado esparcidos por el universo.
+- Quílidos, humanoides grandes, azules y potenciados con una gran capacidad regenerativa. Los que son libres viven bien y adinerados, en cambio la mayoría de ellos son esclavos mineros, guardaespaldas o cualquier trabajo donde se puedan aprovechar de su energía regenerativa.
+- Dioses elementales, antiguamente provenían del mismo planeta, pero con la expansión de la humanidad y su capacidad de renacer han acabado esparcidos por el universo.
+---
+
+La habitación de MIKO:
+
+Tiene una gran ventana que ocupa una pared entera, en otra pared tiene su cama, su cápsula de hibernación y su escritorio, en la pared opuesta tiene su armario y en la pared continua la puerta de su habitación junto a unos posters.
+
+---
+
+El CEO / Lider de ZLogic:
+
+Es un cyborg inmortal muy poderoso, de mediana edad, al inicio de la historia esta en una cápsula puesto que el sistema de cyborgs es bastante nuevo y aún se esta adecuando.
+
+Padre adoptivo de Astaroth, su hermana [Nombre] y su otra hermana [Nombre].
+
+Su objetivo es controlar a MIKO, el primer cyborg completo de pruebas, para que cuando llegue el momento que MIKO descubra quien es y pueda regenerar su cuerpo a voluntad, usar ese mismo poder para recuperar su propio cuerpo.
+
+---
+
+
