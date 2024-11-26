@@ -12,19 +12,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7e8624ffc281215b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capítulo 1 Prólogo.md",
-                "mode": "source",
-                "source": false
-              }
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           },
           {
@@ -36,11 +26,12 @@
                 "file": "Wiki/Notas.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Notas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -75,7 +68,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -83,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -114,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Capítulo 1 Prólogo"
             }
           },
           {
@@ -126,7 +125,9 @@
                 "file": "Capítulo 1 Prólogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Capítulo 1 Prólogo"
             }
           },
           {
@@ -137,7 +138,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -147,7 +150,9 @@
               "type": "outline",
               "state": {
                 "file": "Capítulo 1 Prólogo.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Capítulo 1 Prólogo"
             }
           }
         ]
@@ -167,12 +172,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7e8624ffc281215b",
+  "active": "e25982b045578ca6",
   "lastOpenFiles": [
-    "Pasted image 20241001173624.png",
     "Wiki/Notas.md",
-    "Capítulo 1 Prólogo.md",
     "Wiki/Índice.md",
+    "Pasted image 20241001173624.png",
+    "Capítulo 1 Prólogo.md",
     "Wiki/Leaks/Leaks.md",
     "Wiki/Leaks",
     "Wiki",
